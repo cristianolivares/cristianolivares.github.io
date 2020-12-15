@@ -2,9 +2,13 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;   
+    width: 55%;   
 }
 .center-text{
     text-align: center;
     color: lightseagreen;
+    font-family: "Garamond", serif;
+    font-size: 2.3rem;
 }
+
+
